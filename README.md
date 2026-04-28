@@ -363,11 +363,9 @@ Custom keyframes defined in `index.css`:
 
 ## 🙏 Acknowledgments
 
-- **[Anthropic Claude](https://claude.ai)** — For AI pair programming during development
 - **[Groq](https://groq.com)** — For the lightning-fast free LLM inference
 - **[Lucide](https://lucide.dev)** — For the beautiful icon set
 - **[Tailwind CSS](https://tailwindcss.com)** — For making styling enjoyable
-- **ISET Mahdia** — Where this project was born 🎓
 
 ---
 
