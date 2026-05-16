@@ -322,7 +322,7 @@ The frontend communicates with a FastAPI backend through these endpoints:
 
 CORS is configured in the backend to accept requests from `http://localhost:5173` (Vite default).
 
-See the [backend repository](https://github.com/YOUR_USERNAME/internship-assistant-backend) for full API documentation and setup.
+See the [backend repository](https://github.com/notAnKy/internship-assistant-backend) for full API documentation and setup.
 
 ---
 
